@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c60a4a4e31e81e542a74ddb48375f83a, type: 3}
+  m_Name: Level_2
+  m_EditorClassIdentifier: 
+  playerStartPoint: {x: 6.05, y: 0, z: 3.93}
+  normalEnemyAmount: 5
+  normalEnemyHealth: 100
+  normalEnemyDamage: 20
+  normalEnemyAttackRange: 2.3
+  normalEnemyVision: 9
+  explodeEnemyAmount: 0
+  explodeEnemyHealth: 150
+  explodeEnemyDamge: 30
+  explodeEnemyAttackRange: 1.5
+  explodeEnemyVision: 9
+  gunEnemyAmount: 0
+  gunEnemyHealth: 200
+  gunEnemyDamage: 20
+  gunEnemyAttackRange: 9
+  gunEnemyVision: 9
+  launchEnemyAmount: 0
+  launchEnemyHealth: 150
+  launchEnemyDamage: 20
+  launchEnemyAttackRange: 4
+  launchEnemyVision: 9
+  patrolAreaCenter1: {x: 16.56, y: 0, z: 11.2}
+  patrolAreaSize1: {x: 10.21, y: 0, z: 23.91}
+  enemiesPerRound: 040000000500000006000000
+  enemyTypesPerRoundArray: 07000000080000000a000000
